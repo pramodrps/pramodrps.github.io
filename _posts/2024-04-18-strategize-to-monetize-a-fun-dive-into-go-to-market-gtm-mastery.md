@@ -8,7 +8,7 @@ tags:
   - "gtm"
   - "product-marketing"
   - "technology"
-coverImage: "group-1000002723.png"
+twitter_image: "https://pramodrps.com/assets/images/gtm-strategy.png"
 layout: post
 ---
 

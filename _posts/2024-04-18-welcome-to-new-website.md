@@ -8,7 +8,6 @@ tags:
   - "gtm"
   - "product-marketing"
   - "technology"
-coverImage: ""
 layout: post
 ---
 

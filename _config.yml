@@ -22,9 +22,10 @@ url: "https://pramodrps.com" # the base hostname & protocol for your site, e.g. 
 icon: /assets/images/icon-512.png
 twitter_username: pramodrps
 github_username:  pramodrps
-
+twitter_image: https://pramodrps.com/assets/images/pramod.jpg
 # Build settings
 markdown: kramdown
+name: Pramod RPS
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
