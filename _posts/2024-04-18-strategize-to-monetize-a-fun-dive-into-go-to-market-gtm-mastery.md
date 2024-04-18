@@ -40,7 +40,7 @@ In your GTM strategy, aiming for Innovators and Early Adopters is like lining up
 
 And once you hit that sweet spot of **Product-Market Fit**—boom, you’re not just guessing anymore. You've got cold, hard proof that the market is practically waiting for what you’re serving. Now’s the time to pump up the volume and scale, riding that wave of early success into the sunset.
 
-## Slack's GTM
+### Slack's GTM
 
 **Let's talk about [Slack](https://slack.com/intl/en-in)** & how they pulled a successful Go-to-Market (GTM) strategy. Slack's success story with its GTM is a classic example of innovative marketing and adept market positioning.
 
