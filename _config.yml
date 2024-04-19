@@ -26,6 +26,7 @@ twitter_image: https://pramodrps.com/assets/images/pramod.jpg
 # Build settings
 markdown: kramdown
 name: Pramod RPS
+google_analytics: G-PG2S22KB1L
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
