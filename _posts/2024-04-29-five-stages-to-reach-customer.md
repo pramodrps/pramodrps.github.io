@@ -19,7 +19,7 @@ The decision-making process regarding an innovation is not instantaneous for cus
 
 ![Five Stages](/assets/images/hero.jpeg)
 
-##The innovation decision process consists of five stages:
+## The innovation decision process consists of five stages:
 1. **Knowledge** - The customer is introduced to the innovation and learns about its features and capabilities.
 2. **Persuasion** - Based on the knowledge acquired, the customer forms either a favorable or unfavorable opinion about the innovation.
 3. **Decision** - The customer engages in activities that lead to either adopting or rejecting the innovation.
@@ -28,7 +28,7 @@ The decision-making process regarding an innovation is not instantaneous for cus
 
 Let us deep dive into each of these stages and understand better. 
 
-##Knowledge Stage:
+## Knowledge Stage:
 
 ![Knowledge Stage](/assets/images/knowledge.jpeg)
 
@@ -46,7 +46,7 @@ Typically, customers look for the following types of information about an innova
 
 
 
-##Persuasion Stage:
+## Persuasion Stage:
 
 ![Persuasion Stage](/assets/images/persuassion.jpeg)
 
@@ -61,7 +61,7 @@ The main outcome of the persuasion stage is the formation of a definite attitude
 
 
 
-##Decision Stage:
+## Decision Stage:
 
 ![Decision Stage](/assets/images/decision.jpeg)
 
@@ -74,7 +74,7 @@ Demonstrations of the product can also accelerate the decision-making process. D
 While much focus is often on adoption, it's equally important to discuss rejection. Not every innovation will suit every potential customer; some may find their current solutions sufficient. Rejection of the innovation can occur actively or passively. Active rejection involves considering the innovation but ultimately deciding against it, which includes individuals who have participated in a free trial. Passive rejection, or non-adoption, occurs when the innovation is never considered as an option.
 
 
-##Implementation Stage:
+## Implementation Stage:
 
 ![Implementation Stage](/assets/images/implementation.jpeg)
 
@@ -103,7 +103,7 @@ As more adopters use the innovation, reinvention occurs, addressing initial flaw
 
 Re-invention not only enhances the original innovation but also incorporates adopter feedback, making it more comprehensive and suited to real-world applications. **“Articrafts are not only constructed by designers, they are also reconstructed by the users.”** 
 
-##Confirmation Stage:
+## Confirmation Stage:
 
 ![Confirmation Stage](/assets/images/confirmation.jpeg)
 
@@ -119,7 +119,7 @@ Discontinuance refers to the decision to reject the innovation after initially a
 - **Disenchantment:** Stemming from dissatisfaction with the innovation’s performance or outcomes due to its misuse or inherent flaws.
 
 
-##Conclusion:
+## Conclusion:
 It's challenging to definitively say whether these five stages are sufficient to persuade a customer to adopt an innovation. Their effectiveness can vary depending on the specific innovation and the market context. These stages help simplify the complex process of adoption by segmenting it into manageable parts, tailored to meet the needs of different teams within an organisation based on customer behaviour.
 
 It may not always be clear to individuals when they transition from one stage to another, and sharp distinctions between each stage are not always necessary. However, the structure of responsibilities within a company typically dictates which team handles each stage, starting from Marketing, then moving to Business Development & Sales, followed by Operations, Customer Success, and circling back to Marketing. Although these distinctions are mainly for accountability, the overarching goal remains to achieve customer satisfaction with the innovation collectively as a team.
