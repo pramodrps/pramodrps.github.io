@@ -105,7 +105,7 @@ Re-invention not only enhances the original innovation but also incorporates ado
 
 ## Confirmation Stage:
 
-![Confirmation Stage](/assets/images/confirmation.jpeg)
+![Confirmation Stage](/assets/images/confirmation stage.jpeg)
 
 In this stage, customers seek validation for the innovation they have adopted. Exposure to conflicting feedback may prompt them to reconsider their decision.
 
@@ -127,3 +127,5 @@ It may not always be clear to individuals when they transition from one stage to
 To effectively monitor and guide the innovation decision process, each stage should have specific Key Performance Indicators (KPIs). Achieving these KPIs may depend on employing various communication channels, each playing a crucial role in influencing consumer decisions and generating outcomes.
 
 Reference: [Diffusion of Innovations by Everett M. Rogers](https://www.google.co.in/books/edition/Diffusion_of_Innovations_5th_Edition/9U1K5LjUOwEC?hl=en&gbpv=1&printsec=frontcover)
+
+[/assets/images/persuassion.jpeg]: /assets/images/persuassion.jpeg
