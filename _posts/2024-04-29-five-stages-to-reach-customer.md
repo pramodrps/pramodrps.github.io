@@ -30,7 +30,7 @@ Let us deep dive into each of these stages and understand better.
 
 ### Knowledge Stage:
 
-![Knowledge Stage](/assets/images/knowledge.jpeg)
+![Knowledge Stage](/assets/images/knowledge1.jpeg)
 
 When someone finds out about a new product, they usually start by learning what it does and how it works. There's no clear answer on whether people need the product first or if they just find out about it later - it depends on the specific thing.
 
@@ -49,7 +49,7 @@ Typically, customers look for the following types of information about a product
 
 ### Persuasion Stage:
 
-![Persuasion Stage](/assets/images/persuasionstage.jpeg)
+![Persuasion Stage](/assets/images/persuassion2.jpeg)
 
 When people learn about a new product, they start forming opinions about it. These opinions can be good or bad, and depend on whether the right people are hearing about it. What people already believe can also influence their opinion.
 
@@ -64,7 +64,7 @@ The goal of this stage is to form a clear opinion - either positive or negative.
 
 ### Decision Stage:
 
-![Decision Stage](/assets/images/decisionstage.jpeg)
+![Decision Stage](/assets/images/decision3.jpeg)
 
 When customers are deciding whether to use a new product, they go through a process where they weigh their options and make a choice. They can choose to adopt the product (use it) or reject it (not use it).
 
@@ -77,7 +77,7 @@ It's not just about getting people to adopt the product - it's also important to
 
 ### Implementation Stage:
 
-![Implementation Stage](/assets/images/implementation.jpeg)
+![Implementation Stage](/assets/images/implementation4.jpeg)
 
 The implementation stage is when you start actually using the product or service. This is different from just thinking about whether to use it. You've decided to adopt it, and now you need to figure out how to make it work in your life.
 
@@ -113,7 +113,7 @@ Re-inventing a product happens when more and more people start using it, and the
 
 ### Confirmation Stage:
 
-![Confirmation Stage](/assets/images/confirmation stage.jpeg)
+![Confirmation Stage](/assets/images/confirmation5.jpeg)
 
 At this stage, customers want to make sure they made the right decision by adopting the product. If they hear conflicting opinions, they might start to doubt their choice.
 
