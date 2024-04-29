@@ -48,7 +48,7 @@ Typically, customers look for the following types of information about an innova
 
 ## Persuasion Stage:
 
-![Persuasion Stage](/assets/images/persuasion.jpeg)
+![Persuasion Stage](/assets/images/persuasionstage.jpeg)
 
 In this stage, customers form opinions about the innovation, which can be either favourable or unfavourable, largely depending on whether the right target audience has been reached. A customer's attitude may also be influenced by their existing beliefs.
 
@@ -63,7 +63,7 @@ The main outcome of the persuasion stage is the formation of a definite attitude
 
 ## Decision Stage:
 
-![Decision Stage](/assets/images/decision stage.jpeg)
+![Decision Stage](/assets/images/decisionstage.jpeg)
 
 In this stage, customers participate in activities that lead them to decide whether to adopt or reject the innovation. Adoption refers to the decision to fully utilise the innovation as the best course of action, whereas rejection means deciding against adopting the innovation.
 
