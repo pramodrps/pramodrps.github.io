@@ -10,9 +10,13 @@ tags:
   - "technology"
 <<<<<<< HEAD
 twitter_image: "https://pramodrps.github.io/assets/images/hero.jpeg"
+=======
+<<<<<<< HEAD
+twitter_image: "https://pramodrps.github.io/assets/images/hero.jpeg"
 description: "Explore the five stages of the Innovation Decision Process, from knowledge acquisition to confirmation, detailing how each phase influences customer decisions to adopt or reject an innovation."
 =======
 twitter_image: "https://pramodrps.com/assets/images/hero.jpeg"
+>>>>>>> c9be17f8efce1e61be36707ef2123de9b6250cfe
 description: "Explore the five stages of the Innovation Decision Process, from knowledge acquisition to confirmation, detailing how each phase influences customer decisions to adopt or reject a product."
 >>>>>>> 21a4f23ecb707fafc33b7d6a9878de9f073e2605
 layout: post
