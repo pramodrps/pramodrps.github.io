@@ -41,11 +41,11 @@ Walking up the hill enjoying the scenic beauty was so mesmerizing. I don't know 
 
 When the whole crowd over there is busy taking selfies and pictures, I found a nice beautiful place to just see the scenic beauty. Watching the parrots flying from tree to tree.. green birds in greens..!!
 
-![](https://pramodrps.files.wordpress.com/2016/11/img_20161010_080119101.jpg?w=1024)
+![1](https://pramodrps.files.wordpress.com/2016/11/img_20161010_080119101.jpg?w=1024)
 
-![](https://pramodrps.files.wordpress.com/2016/11/img_20161010_083106136.jpg?w=1024)
+![2](https://pramodrps.files.wordpress.com/2016/11/img_20161010_083106136.jpg?w=1024)
 
-![](https://pramodrps.files.wordpress.com/2016/11/img_20161010_093924750_hdr.jpg?w=1024)
+![3](https://pramodrps.files.wordpress.com/2016/11/img_20161010_093924750_hdr.jpg?w=1024)
 
 Watching nature is so amazing.. Understanding it is some kind of cosmopolitan theory.. How did that beauty grow there? Who is responsible? How is nature helping itself ? Despite so many ill habits from humans nature is trying to heal hard. Great to watch. Nature should be enjoyed, it shouldn't be disturbed. After so many things in mind, I thought I should also take pic and asked some one over there.
 
