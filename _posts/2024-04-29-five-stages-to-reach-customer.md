@@ -8,13 +8,8 @@ tags:
   - "innovation"
   - "product-marketing"
   - "technology"
-<<<<<<< HEAD
-twitter_image: "https://pramodrps.github.io/assets/images/hero.jpeg"
-=======
-<<<<<<< HEAD
 twitter_image: "https://pramodrps.github.io/assets/images/hero.jpeg"
 description: "Explore the five stages of the Innovation Decision Process, from knowledge acquisition to confirmation, detailing how each phase influences customer decisions to adopt or reject an innovation."
-=======
 layout: post
 ---
 
