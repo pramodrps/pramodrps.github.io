@@ -18,11 +18,11 @@ email: rps.pramod@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blend of Marketing and Life
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pramodrps.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pramodrps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: pramodrps
 github_username:  pramodrps
-twitter_image: https://pramodrps.com/assets/images/pramod.jpg
+twitter_image: https://pramodrps.github.io/assets/images/pramod.jpg
 # Build settings
 markdown: kramdown
 name: Pramod RPS
