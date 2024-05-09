@@ -27,6 +27,8 @@ NSM highlights the value a product offers, while OKRs provide a hands-on approac
 ## Finding Your North Star Metric (NSM):
 The North Star Metric (NSM) is a straightforward yet impactful concept for products. [Sean Ellis](https://www.linkedin.com/in/seanellis/), the author of "Growth Hacking," frequently discusses it when addressing recurring issues in product management.
 
+![NSM](pramodrps/pramodrps.github.io/assets/images/NSM-hero.jpeg)
+
 The NSM focuses on rapid growth while ensuring that value delivered to the customer remains consistent with the pace of growth.
 
 NSM serves as a **single, customer-focused metric** that reveals whether a company is fulfilling its vision. The NSM is **data-driven, not influenced by individual opinions,** and represents a **sustainable metric** that always **offers insight, regardless of its increase or decrease.**
