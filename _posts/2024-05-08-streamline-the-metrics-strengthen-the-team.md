@@ -24,7 +24,7 @@ I'd like to discuss two popular frameworks that are often used to manage the dyn
 
 NSM highlights the value a product offers, while OKRs provide a hands-on approach. Together, they provide flexibility in shaping marketing strategies and inspiring your marketing teams.
 
-## Finding Your North Star Metric (NSM):
+### Finding Your North Star Metric (NSM)
 The North Star Metric (NSM) is a straightforward yet impactful concept for products. [Sean Ellis](https://www.linkedin.com/in/seanellis/), the author of "Growth Hacking," frequently discusses it when addressing recurring issues in product management.
 
 ![NSM](https://pramodrps.github.io/assets/images/NSM-hero.jpeg)
@@ -72,7 +72,7 @@ Few examples of good NSM and Bad NSM which can often confuse the success rate of
 
 ![NSM Examples](https://pramodrps.github.io/assets/images/nsmexamples.webp)
 
-## Manage your Marketing Team: 
+### Manage your Marketing Team
 
 OKR (Objectives and Key Results) is a collaborative goal-setting framework used by teams and individuals to establish ambitious goals with measurable outcomes. It helps track progress, fosters coordination among internal and external teams, identifies bottlenecks and bandwidth issues, and encourages collective efforts toward measurable goals within the marketing team.
 
@@ -100,7 +100,7 @@ OKRs were coined by Andy Grove, the former CEO of Intel and the father of OKRs. 
 
 It's fine to seek advice from experts and strategists, but you are responsible for achieving your targets. Experts can guide you with frameworks and warnings, but the results are yours. Own them—whether you succeed or learn from the process.
 
-## Progress Check:
+### Progress Check
 
 Regularly review progress. Although OKRs are typically evaluated quarterly, most GTM strategists recommend monitoring them monthly. This approach provides better feedback loops, identifies bottlenecks, allows for adjustments, and highlights areas for improvement.
 
@@ -109,7 +109,7 @@ Objectives are measured based on the average of all the key results combined. Th
 
 The entire process of GTM, identifying your NSM, and setting OKRs serves as a compass. Use it wisely, recognizing that there is no single correct path. Learn, stumble, and continue learning through the journey. As previously mentioned, "you either win or learn; failure only happens when the same mistake is repeated without any learning." Regularly gather feedback, integrating it into everyday life instead of solely relying on what you already know.
 
-### References: 
+### References
 1. [Go-To-Market Strategist by Maja Voje](https://gtmstrategist.com/)
 2. [Amplitude](https://amplitude.com/blog/product-north-star-metric)
 3. [Pawel Huryn's NSM Notes](https://substack.com/@huryn/note/c-54155425)
