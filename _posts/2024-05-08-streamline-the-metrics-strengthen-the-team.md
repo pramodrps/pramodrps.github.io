@@ -40,7 +40,7 @@ From the survey conducted by [Amplitude](https://amplitude.com/), a digital anal
 3. **Productivity game:** number of high value digital tasks customer performed using/with your product
         Eg: ChatGPT, Adobe Tools, Hubspot
 
-![Spotify NSM](assets/images/spotifynsm.jpeg)
+![Spotify NSM](https://pramodrps.github.io/assets/images/spotifynsm.jpeg)
 
 After understanding the core principles, it is time we look into finding the NSM. Steps that could help in finding NSM are:
 
@@ -68,7 +68,7 @@ Avoid assuming that revenue or units sold are the only NSMs. Adding value to cus
 
 Few examples of good NSM and Bad NSM which can often confuse the success rate of many product and marketing teams in their Marketing team and GTM discussions. 
 
-![NSM-Example](assets/images/nsmexamples.webp)
+![NSM Examples](https://pramodrps.github.io/assets/images/nsmexamples.webp)
 
 ## Manage your Marketing Team: 
 
