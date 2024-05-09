@@ -27,7 +27,7 @@ NSM highlights the value a product offers, while OKRs provide a hands-on approac
 ## Finding Your North Star Metric (NSM):
 The North Star Metric (NSM) is a straightforward yet impactful concept for products. [Sean Ellis](https://www.linkedin.com/in/seanellis/), the author of "Growth Hacking," frequently discusses it when addressing recurring issues in product management.
 
-![NSM](pramodrps/pramodrps.github.io/assets/images/NSM-hero.jpeg)
+![NSM](https://pramodrps.github.io/assets/images/NSM-hero.jpeg)
 
 >The NSM focuses on rapid growth while ensuring that value delivered to the customer remains consistent with the pace of growth.
 
@@ -63,10 +63,10 @@ Avoid assuming that revenue or units sold are the only NSMs. Adding value to cus
 
 [Pawel Huryn](https://substack.com/@huryn) in [North Star Framework](https://www.productcompass.pm/p/the-north-star-framework-101) suggests asking four questions before defining NSM:
 
-    - Does the metric truly define the value provided to customers?
-    - Will this metric help create customer habits?
-    - Will it inspire the product team?
-    - Will this metric indicate long-term sustainability and success?
+- Does the metric truly define the value provided to customers?
+- Will this metric help create customer habits?
+- Will it inspire the product team?
+- Will this metric indicate long-term sustainability and success?
 
 Few examples of good NSM and Bad NSM which can often confuse the success rate of many product and marketing teams in their Marketing team and GTM discussions. 
 
@@ -78,11 +78,11 @@ OKR (Objectives and Key Results) is a collaborative goal-setting framework used 
 
 OKRs were coined by Andy Grove, the former CEO of Intel and the father of OKRs. According to Grove, the terms represent two distinct purposes: an objective provides direction, while a key result is a measurable metric that is typically reviewed monthly or quarterly. Ultimately, it should result in a clear "yes" or "no" regarding whether the goal was achieved.
 
-a. **Objective:** What needs to be achieved, bold and ambitious without specific numbers
-        - **Commitment:** Action-oriented; what needs to be done
-        - **Inspiration:** What the company aims to achieve
-        - **Learning:** You either succeed or learn, there is no failure
-b. **Key Results:** Specific, time-bound, and ambitious but realistic ways to reach the objective. Every team and individual should monitor and evaluate their key results regularly within the set time frame, whether it's monthly or quarterly.
+1. **Objective:** What needs to be achieved, bold and ambitious without specific numbers
+    - **Commitment:** Action-oriented; what needs to be done
+    - **Inspiration:** What the company aims to achieve
+    - **Learning:** You either succeed or learn, there is no failure
+2. **Key Results:** Specific, time-bound, and ambitious but realistic ways to reach the objective. Every team and individual should monitor and evaluate their key results regularly within the set time frame, whether it's monthly or quarterly.
 
 **Setting up OKRs is both an art and a science.** The effort is worthwhile because they become a valuable tool for the entire company. Initially, OKRs may be challenging, and key results often need to be revisited, challenged, and sometimes replaced. The driving force should be to understand what made them effective or ineffective and achievable or unachievable.
 
@@ -90,8 +90,8 @@ b. **Key Results:** Specific, time-bound, and ambitious but realistic ways to re
 
 1. **Review Examples:** Look at similar companies in the industry to gain insights.
 2. **Top-Down Approach:** The best GTM OKRs align with the company's goals and are co-created with the team. Focus on:
-        - The most important goal for everyone - the company's objective
-        - Your team's OKRs that contribute to the company's goals
+    - The most important goal for everyone - the company's objective
+    - Your team's OKRs that contribute to the company's goals
 3. **Individual OKRs:** Align personal goals with the team's and the company's OKRs.
 4. **Collaborative Process:** The best OKRs result from workshops and brainstorming sessions, emphasising team effort over individual input.
 5. **Determine Objectives First:** Set objectives before defining the key results that will lead to achieving them.
@@ -109,8 +109,7 @@ Objectives are measured based on the average of all the key results combined. Th
 
 The entire process of GTM, identifying your NSM, and setting OKRs serves as a compass. Use it wisely, recognizing that there is no single correct path. Learn, stumble, and continue learning through the journey. As previously mentioned, "you either win or learn; failure only happens when the same mistake is repeated without any learning." Regularly gather feedback, integrating it into everyday life instead of solely relying on what you already know.
 
-
-References: 
+### References: 
 1. [Go-To-Market Strategist by Maja Voje](https://gtmstrategist.com/)
 2. [Amplitude](https://amplitude.com/blog/product-north-star-metric)
 3. [Pawel Huryn's NSM Notes](https://substack.com/@huryn/note/c-54155425)
