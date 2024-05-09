@@ -86,8 +86,8 @@ OKRs were coined by Andy Grove, the former CEO of Intel and the father of OKRs. 
 
 **Setting up OKRs is both an art and a science.** The effort is worthwhile because they become a valuable tool for the entire company. Initially, OKRs may be challenging, and key results often need to be revisited, challenged, and sometimes replaced. The driving force should be to understand what made them effective or ineffective and achievable or unachievable.
 
-**How to Set Up OKRs:**
 
+**How to Set Up OKRs:**
 1. **Review Examples:** Look at similar companies in the industry to gain insights.
 2. **Top-Down Approach:** The best GTM OKRs align with the company's goals and are co-created with the team. Focus on:
     - The most important goal for everyone - the company's objective
