@@ -72,42 +72,46 @@ Few examples of good NSM and Bad NSM which can often confuse the success rate of
 
 ![NSM Examples](https://pramodrps.github.io/assets/images/nsmexamples.webp)
 
-### Manage your Marketing Team
+### Manage your Marketing Team and their metrics
 
-OKR (Objectives and Key Results) is a collaborative goal-setting framework used by teams and individuals to establish ambitious goals with measurable outcomes. It helps track progress, fosters coordination among internal and external teams, identifies bottlenecks and bandwidth issues, and encourages collective efforts toward measurable goals within the marketing team.
+A collaborative goal-setting framework should be used by teams and individuals to establish ambitious goals with measurable outcomes. It helps track progress, fosters coordination among internal and external teams, identifies bottlenecks and bandwidth issues, and encourages collective efforts toward measurable goals within the marketing team.
 
-OKRs were coined by Andy Grove, the former CEO of Intel and the father of OKRs. According to Grove, the terms represent two distinct purposes: an objective provides direction, while a key result is a measurable metric that is typically reviewed monthly or quarterly. Ultimately, it should result in a clear "yes" or "no" regarding whether the goal was achieved.
+In the process of achieving the goals there should be two distinct purposes: an objective that provides direction, a measurable metric that is typically reviewed monthly or quarterly. Ultimately, it should result in a clear "yes" or "no" regarding whether the goal was achieved. If it is a No we should atleast know why you couldn't achieve it.
 
 1. **Objective:** What needs to be achieved, bold and ambitious without specific numbers
     - **Commitment:** Action-oriented; what needs to be done
     - **Inspiration:** What the company aims to achieve
     - **Learning:** You either succeed or learn, there is no failure
-2. **Key Results:** Specific, time-bound, and ambitious but realistic ways to reach the objective. Every team and individual should monitor and evaluate their key results regularly within the set time frame, whether it's monthly or quarterly.
+2. **Measureable Metrics:** Specific, time-bound, and ambitious but realistic ways to reach the objective. Every team and individual should monitor and evaluate their metrics regularly within the set time frame.
 
-**Setting up OKRs is both an art and a science.** The effort is worthwhile because they become a valuable tool for the entire company. Initially, OKRs may be challenging, and key results often need to be revisited, challenged, and sometimes replaced. The driving force should be to understand what made them effective or ineffective and achievable or unachievable.
+**Setting up tangible metrics is both an art and a science.** The effort is worthwhile because they become a valuable nuumbers for the entire company. Initially, finding the right metrics may be challenging, and results often need to be revisited, challenged, and sometimes metrics needs replaced too. The driving force should be to understand what made them effective or ineffective and achievable or unachievable.
 
 
-**How to Set Up OKRs:**
+**How to set up your metrics**
 1. **Review Examples:** Look at similar companies in the industry to gain insights.
-2. **Top-Down Approach:** The best GTM OKRs align with the company's goals and are co-created with the team. Focus on:
+2. **Top-Down Approach:** The best GTM strategies align with the company's goals and are co-created with the team. Focus on:
     - The most important goal for everyone - the company's objective
-    - Your team's OKRs that contribute to the company's goals
-3. **Individual OKRs:** Align personal goals with the team's and the company's OKRs.
-4. **Collaborative Process:** The best OKRs result from workshops and brainstorming sessions, emphasising team effort over individual input.
-5. **Determine Objectives First:** Set objectives before defining the key results that will lead to achieving them.
-6. **Limit Objectives and Key Results:** Each individual or team should have three to five objectives, with up to five key results per objective. The benchmark is a guideline, not a rule; one is better than none. The OKR system is meant to motivate, not overwhelm.
-7. **Visible Display:** Display OKRs in visible places and refer to them frequently in your actions so they become your compass toward achieving the company's goals.
+    - Your team's metrics that contribute to the company's goals
+    - **Example:** LinkedIn employs a top-down approach in their goal-setting process. CEO Jeff Weiner believes that strong leadership can elevate a team through coaching, strategic planning, clear goal definition, and measurable outcomes. Objectives are set at the leadership level and then systematically broken down to team and individual levels.
+3. **Individual goals and metrics:** Align personal goals with the team's and the company's Objectives.
+4. **Collaborative Process:** The best objectives and metrics emerge from workshops and brainstorming sessions, emphasising team effort over individual input.
+5. **Determine Objectives First:** Set objectives before defining the metrics that will lead to achieving them.
+6. **Limit Objectives and Metrics:** Each individual or team should have three to five objectives, with up to five metrics per objective. The benchmark is a guideline, not a rule; one is better than none. Goal setting framework is meant to motivate, not overwhelm.
+7. **Visible Display:** Display measuring metrics in visible places and refer to them frequently in your actions so they become your compass toward achieving the company's goals.
+    - **Example:** Google is among the select companies that have adopted transparent metrics. All employees can view their team's goals and progress, ensuring visibility and alignment for everyone involved.
+
+
 
 It's fine to seek advice from experts and strategists, but you are responsible for achieving your targets. Experts can guide you with frameworks and warnings, but the results are yours. Own them—whether you succeed or learn from the process.
 
 ### Progress Check
 
-Regularly review progress. Although OKRs are typically evaluated quarterly, most GTM strategists recommend monitoring them monthly. This approach provides better feedback loops, identifies bottlenecks, allows for adjustments, and highlights areas for improvement.
+Regularly review progress. Although the goal setting frameworks are typically evaluated quarterly, most GTM strategists recommend monitoring them monthly. This approach provides better feedback loops, identifies bottlenecks, allows for adjustments, and highlights areas for improvement.
 
-Objectives are not directly measurable; their success is gauged based on the performance of key results. On a scale of 0 to 1, a score of 0 indicates a complete miss, while a score of 1 signifies that the key result was achieved.
-Objectives are measured based on the average of all the key results combined. The goal is to achieve a perfect score of 1.0 with commitment objectives, which should be achieved at all costs by the end of the cycle. For aspirational objectives, which are beyond the team's ability to fully complete, an average key result score between 0.4 and 0.7 is considered successful by industry standards. Learning objectives should score above 0.5 to demonstrate growth and progress.
+Objectives are not directly measurable; their success is gauged based on the performance measured through metric results. On a scale of 0 to 1, a score of 0 indicates a complete miss, while a score of 1 signifies that the target result was achieved for each metric.
+Objectives are measured based on the average of all the metric results combined. The goal is to achieve a perfect score of 1.0 with commitment objectives, which should be achieved at all costs by the end of the cycle. For aspirational objectives, which are beyond the team's ability to fully complete, an average metric score between 0.4 and 0.7 is considered successful by industry standards. Learning objectives should score above 0.5 to demonstrate growth and progress.
 
-The entire process of GTM, identifying your NSM, and setting OKRs serves as a compass. Use it wisely, recognizing that there is no single correct path. Learn, stumble, and continue learning through the journey. As previously mentioned, "you either win or learn; failure only happens when the same mistake is repeated without any learning." Regularly gather feedback, integrating it into everyday life instead of solely relying on what you already know.
+The entire process of GTM, identifying your NSM, and setting your goal setting serves as a compass. Use it wisely, recognizing that there is no single correct path. Learn, stumble, and continue learning through the journey. As previously mentioned, "you either win or learn; failure only happens when the same mistake is repeated without any learning." Regularly gather feedback, integrating it into everyday life instead of solely relying on what you already know.
 
 ### References
 1. [Go-To-Market Strategist by Maja Voje](https://gtmstrategist.com/)
