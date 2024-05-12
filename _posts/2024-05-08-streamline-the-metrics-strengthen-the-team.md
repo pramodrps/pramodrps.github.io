@@ -16,13 +16,8 @@ layout: post
 
 To secure your company's future, it's essential to have a strategy that is both disciplined and adaptable. In today's rapidly changing market, marketing strategies can be unpredictable, making it difficult to adhere to a single long-term goal. Instead, we should set adaptable short-term goals, using metrics for regular monitoring to ensure we stay on track.
 
-I'd like to discuss two popular frameworks that are often used to manage the dynamic nature of these strategies, helping to assess if we are on the right path or need to adjust our approach.
+I'd like to discuss popular frameworks that are often used to manage the dynamic nature of these strategies, helping to assess if we are on the right path or need to adjust our approach.
 
-
-1. North Star Metric (NSM)
-2. Objective and Key Results (OKRs) 
-
-NSM highlights the value a product offers, while OKRs provide a hands-on approach. Together, they provide flexibility in shaping marketing strategies and inspiring your marketing teams.
 
 ### Finding Your North Star Metric (NSM)
 The North Star Metric (NSM) is a straightforward yet impactful concept for products. [Sean Ellis](https://www.linkedin.com/in/seanellis/), the author of "Growth Hacking," frequently discusses it when addressing recurring issues in product management.
